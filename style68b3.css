@@ -4516,6 +4516,11 @@ h6+ol {
         width: 280px;
         height: 280px
     }
+    .page-section .section-background img {
+            position: absolute;
+            left: 5%;
+            top: 50%;
+    }
     .layout-home .section-illustrations {
         margin-bottom: 15px
     }
@@ -4565,8 +4570,7 @@ h6+ol {
         width: 320px
     }
     .layout-works .section-works {
-        padding: 40px 0 0;
-        background: #a8d0e6 !important
+        padding: 0;
     }
     .layout-works .work {
         display: flex;
