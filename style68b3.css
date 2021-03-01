@@ -290,9 +290,8 @@ h6+ol {
 }
 
 .site-head .site-title .svg {
-    display: none;
     width: 65px;
-    height: 24px
+    height: 65px
 }
 
 .site-head .site-title .animation-container {
